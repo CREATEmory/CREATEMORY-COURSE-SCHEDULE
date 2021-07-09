@@ -1,4 +1,4 @@
-[![CREATEmory Logo](./logo.png)](https://www.createmory.com/)`
+[![CREATEmory Logo](./logo.png)](https://www.createmory.com/)
 > CREATEmory is a software engineering club designed teach practical software principles to Emory CS students, and provide real development experience.   
 > Our mission is to build a culture of creativity and collaboration in the Emory community, while also helping students further their careers.
 
