@@ -6,7 +6,7 @@
 -----
 
 ## Meeting 1: Intro To CREATEmory
-#### [LINK TO THE LESSON GITHUB](https://github.com/CREATEmory/CLASS-1-Intro-To-CREATEmory)
+#### [LINK TO LESSON 1 GITHUB](https://github.com/CREATEmory/CLASS-1-Intro-To-CREATEmory)
 
 <br/>
 ## Meeting 2:
